@@ -5,17 +5,20 @@ import React, { useState } from "react";
 
 const LikeSection = props => {
   const [likes, setLike] = useState(props.likes);
-  const i = props.likes;
+  const [notClicked, setClick] = useState(true);
+  const [heartClass, setClass] = useState('far fa-heart');
 
-  const click = () => {
-    setLike(likes + 1)
+  const handleClick = () => {
+    setLike(likes + 1);
+    setClick(false);
+    setClass('far fa-heart heart');
   }
 
   return (
     <div>
       <div className="like-section" key="likes-icons-container">
         <div className="like-section-wrapper">
-          <i className="far fa-heart" onClick={likes === i && (() => click())} />
+          <i className={heartClass} onClick={notClicked && (() => handleClick())} />
         </div>
         <div className="like-section-wrapper">
           <i className="far fa-comment" />
