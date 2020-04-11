@@ -1,7 +1,7 @@
 const dummyData = [
     {
         username: "philzcoffee",
-        thumbnailUrl: 'https://png2.cleanpng.com/sh/fac6339e900b9fe989e342e42acb23e3/L0KzQYm3WMIyN6E0g9t8c4Dxd37okQBtcZRmjNt4bj3zgrFukvFudZpzf59yboTogrfogBUudJDsh59ybXHqdX7qjB1xfV5uRdVqbj3ndcfsjP9xNZNme902ZX7nPcPskCQuaaFuRdh4cj38f8b5TgNmeqdue9c2Zj24cojqWPZmOmY3S6k7Mj66RYe9WMQ3OGI6S6YDOEm8RYW6U8Y5NqFzf3==/kisspng-application-programming-interface-logo-image-compu-i-can-develop-back-end-rest-api-for-your-service-f-5b7c8fe2523722.7566846015348899543368.png',
+        thumbnailUrl: 'https://png2.cleanpng.com/sh/9dfc24c2ca85b992c9758980ff6cbb4b/L0KzQYm3UsA1N5l9j5H0aYP2gLBuTfZifJlqiuU2ZHH8PbTvifxlNZRxgeI2YYL3PbfolPhmeqQyfNNELYDxd373ifN1faNqRadqN0flcYq5VPU1OJU5Rqg5OEm1RoG3UcUyP2gATasDNkO1QIa1kP5o/kisspng-fathers-day-child-clip-art-fathers-day-png-picture-5a77ba924e40d4.6089260015177959863205.png',
         imageUrl: 'https://images.unsplash.com/photo-1477763858572-cda7deaa9bc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1876&q=80',
         likes: 400,
         timestamp: "July 17th 2017, 12:42:40 pm",
@@ -22,7 +22,7 @@ const dummyData = [
     },
     {
         username: "twitch",
-        thumbnailUrl: 'https://png2.cleanpng.com/sh/15c57f05826db5543674a9f8ba53a60f/L0KzQYm3VMI2N5d1j5H0aYP2gLBuTf5wbJYyguU2anH5ccTqkvlxfF58fdQ2YYDzfLrqggRqd58yfep5cnX2g37xk71kd551RadqZUDpSIXsVfU4PWQ8RqI9NkS8RIaBUcUzPGcAS6ICMEO7Roq1kP5o/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e5e7537.0464945815246930703869.png',
+        thumbnailUrl: 'https://png2.cleanpng.com/sh/6d62e3dbb7d8782b557eb6642af706b4/L0KzQYm3UsA1N6h2iZH0aYP2gLBuTf1wfJDoitH8cz3mhcHqgftmNZdmjNpucoOwdLLCTgdmbJVuhtk2Y3HudX77jCBxbaMyhdH9b3P1f8T6TgBvb155itN3c4Dkgrb1lL1qdZJsfZ8AYUe6Q4PoV8QxbZU9SJCDNUK6SYeBWcE2OWg8TqM6OUG1Roe1kP5o/kisspng-motocross-cupcake-fathers-day-wedding-cake-topper-motocross-png-transparent-image-5a7732a740ed80.852796891517761191266.png',
         imageUrl: 'https://images.unsplash.com/photo-1566577134770-3d85bb3a9cc4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3750&q=80',
         likes: 4307,
         timestamp: "July 15th 2017, 03:12:09 pm",
